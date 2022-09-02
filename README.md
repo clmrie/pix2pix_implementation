@@ -6,6 +6,8 @@ by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros with the help of ed
 
 The model translates map pictures to the corresponding aerial pictures.
 
+Made with Python and Keras.
+
 Condition: &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Original:
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Generated: \
 ![img_cond11](https://user-images.githubusercontent.com/37712544/188167525-7cfeb297-d4d0-4bdd-8ed2-0a6d3793042f.jpg)
