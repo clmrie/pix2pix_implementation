@@ -1,4 +1,4 @@
-# Pix2pix implementation (Map to aerial photo) 
+# pix2pix implementation (Map to aerial photo) 
 09/02/2022
 
 While working on paired style transfer: \
