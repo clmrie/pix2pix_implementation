@@ -15,7 +15,7 @@ Made with Python and Keras.
 
 <br>
 
-The models uses:
+The model uses:
 - Conditional GANs
 - a PatchGAN discriminator, which only penalizes structure at the scale of image patches rather than the whole image.
 - a U-Net generator (encoder-decoder architecture with skip connections)
